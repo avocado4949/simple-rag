@@ -1,0 +1,5 @@
+[project]
+name = "simple-rag"
+version = "0.1.0"
+description = "Minimal local RAG study with Python and Ollama"
+requires-python = ">=3.11"
